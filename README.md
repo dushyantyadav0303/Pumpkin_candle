@@ -47,12 +47,12 @@ https://github.com/user-attachments/assets/e18ad0ff-c12c-40d7-802b-a59786a44eb7
 
 
 
-## printable like: 
+## printable like: https://www.printables.com/model/1844306-pumpkin-candle
 ## About the Project
-### **Pumpkin candle** - It is a Halloween Edition
+### **Pumpkin candle** - It is a Halloween Edition Pumpkin candle holder. it also Which having Compartment for a candle
 
 ## why i made this?
-### cause i Every time I forgot the day, So I make this calendar Which help to remember me the day. And no more need to change Calendar every year. 
+### Yeah so I plan to making a candle holder. And somewhere in my mind the Halloween is also going on. So I think why don't make an Halloween addition candle holder which really looks sick.
 
 ## Repository Structure
 - `src/` - project sources
