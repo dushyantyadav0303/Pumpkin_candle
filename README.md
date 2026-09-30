@@ -4,7 +4,7 @@
 </h1>
 <div align="center"> 
 
-[![Hack Club Live YSWS](https://img.shields.io/badge/Hack%20Club-Live%20YSWS-FFC800?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://Live.hackclub.com)
+[![Hack Club ZoneOut](https://img.shields.io/badge/Hack%20Club-ZoneOut-FFC800?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://Live.hackclub.com)
 
 </div>
 
@@ -121,7 +121,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <div align="center">
 
 [![Fusion 360](https://img.shields.io/badge/CAD%20in-Fusion%20360-orange?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
-[![Hack Club Live YSWS](https://img.shields.io/badge/Hack%20Club-Live%20YSWS-FFC800?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://Live.hackclub.com)
+[![Hack Club Live YSWS](https://img.shields.io/badge/Hack%20Club-ZoneOut-FFC800?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://Live.hackclub.com)
 [![Blender](https://img.shields.io/badge/Rendered%20in-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org) 
 [![Bambu Studio](https://img.shields.io/badge/Rendered%20in-Bambu%20Studio-green?style=for-the-badge&logo=Bambulab&logoColor=white)](https://bambulab.com/en/download/studio) 
 
